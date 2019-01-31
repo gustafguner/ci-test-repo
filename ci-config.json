@@ -3,5 +3,6 @@
   "path": {
     "src": "src",
     "test": "test"
-  }
+  },
+  "dummy": "dummy"
 }
