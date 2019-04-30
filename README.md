@@ -1,1 +1,3 @@
-# ci-test-repo 2322
+# Test repo
+
+A test repo for Review Collector
